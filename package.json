@@ -1,0 +1,24 @@
+{
+  "name": "swfobject-umd",
+  "version": "2.3.0",
+  "description": "SWFObject including UMD",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwnccc/swfobject.git"
+  },
+  "keywords": [
+    "swfobject",
+    "umd",
+    "swf",
+    "flash"
+  ],
+  "author": "Konstantinos Leimonis <k.leimonis@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwnccc/swfobject/issues"
+  },
+  "homepage": "https://github.com/kwnccc/swfobject#readme"
+}
